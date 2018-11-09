@@ -1,4 +1,4 @@
-token=NTEwMjU3ODU0MTIxMzc3Nzky.DsZuOg.14Qmq5UEYNBZc3ZFm8H-QqC_geo
+token=NTEwMjU3ODU0MTIxMzc3Nzky.DsZ6gA.Bhsa8s136zpJm94fSkkfF3OszM4
 owner=466011381963948039
 prefix=9
 game=Type 9help
