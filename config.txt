@@ -1,5 +1,5 @@
 token=NTEwMjU3ODU0MTIxMzc3Nzky.DsZuOg.14Qmq5UEYNBZc3ZFm8H-QqC_geo
-owner=410421617869455370
+owner=466011381963948039
 prefix=9
 game=Type 9help
 stayinchannel=true
